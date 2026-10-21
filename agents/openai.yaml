@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML to Figma"
+  short_description: "Перенос HTML и сайтов в редактируемую Figma"
+  default_prompt: "Используй $html-to-figma, чтобы перенести указанную HTML-страницу или сайт в редактируемую Figma и проверить все секции по источнику."
